@@ -1,1 +1,2 @@
 This seems intuitive enough; the vocabulary is the trickiest thing to remember, especially with all the abbreveations.
+Let's try out this new commit message feature
